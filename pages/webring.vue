@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtPage />
+    <Navbar />
+    <h1>webring</h1>
   </div>
 </template>
