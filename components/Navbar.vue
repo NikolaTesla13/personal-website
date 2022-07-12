@@ -1,9 +1,9 @@
 <script setup>
 const pages = [
   { link: "/", title: "home" },
-  { link: "/about", title: "about" },
+  // { link: "/about", title: "about" },
   { link: "/blog", title: "blog" },
-  { link: "/projects", title: "projects" },
+  // { link: "/projects", title: "projects" },
   { link: "/experiments", title: "experiments" },
   { link: "/webring", title: "webring" },
 ];

@@ -1,0 +1,40 @@
+:root {
+    --black: #1e2030;
+    --white: #cad3f5;
+    --orange: #f5a97f;
+    --red: #ed8796;
+    --pink: #f5bde6;
+    --blue: #8aadf4;
+    --dark-blue: #8aadf4;
+    --green: #a6da95;
+    --yellow: #eed49f;
+}
+
+body {
+    background: var(--black);
+    color: var(--white);
+}
+
+h1 {
+    color: var(--orange);
+}
+
+.highlight {
+    color: var(--blue);
+}
+
+p {
+    color: var(--white);
+}
+
+a {
+    color: var(--green);
+}
+
+a:hover {
+    filter: brightness(75%);
+}
+
+li p {
+    display: inline;
+}

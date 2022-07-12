@@ -5,7 +5,6 @@ console.log(data);
 
 <template>
   <div>
-    <Navbar />
     <h1>blog</h1>
     <ul>
       <li v-for="article in data">

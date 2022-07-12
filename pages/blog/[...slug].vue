@@ -9,7 +9,6 @@ const { data } = await useAsyncData(articleName, () =>
 
 <template>
   <div>
-    <Navbar />
     <ContentRenderer :value="data" />
   </div>
 </template>
