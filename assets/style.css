@@ -38,3 +38,8 @@ a:hover {
 li p {
     display: inline;
 }
+
+.article a {
+    color: var(--orange);
+    text-decoration: none;
+}
